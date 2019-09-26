@@ -1,0 +1,422 @@
+[
+	{
+		"id":1,
+		"name": "Crude Club",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":10,
+		"sprite":"mainweaponarmor.png",
+		"offset":[3,10]
+	},
+	{
+		"id":2,
+		"name": "Crude Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":20,
+		"sprite":"mainweaponarmor.png",
+		"offset":[5,9]
+	},
+	{
+		"id":3,
+		"name": "Beginnner Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":30,
+		"sprite":"mainweaponarmor.png",
+		"offset":[8,11]
+	},
+	{
+		"id":4,
+		"name": "Iron Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":40,
+		"sprite":"mainweaponarmor.png",
+		"offset":[4,0]
+	},
+	{
+		"id":5,
+		"name": "Steel Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":50,
+		"sprite":"mainweaponarmor.png",
+		"offset":[4,1]
+	},
+	{
+		"id":6,
+		"name": "Bronze Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":60,
+		"sprite":"mainweaponarmor.png",
+		"offset":[4,2]
+	},
+	{
+		"id":7,
+		"name": "Golden Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":70,
+		"sprite":"mainweaponarmor.png",
+		"offset":[4,3]
+	},
+	{
+		"id":8,
+		"name": "Glass Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":80,
+		"sprite":"mainweaponarmor.png",
+		"offset":[4,4]
+	},
+	{
+		"id":9,
+		"name": "Adamantite Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":90,
+		"sprite":"mainweaponarmor.png",
+		"offset":[4,5]
+	},
+	{
+		"id":10,
+		"name": "Plate Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":100,
+		"sprite":"mainweaponarmor.png",
+		"offset":[4,6]
+	},
+	{
+		"id":11,
+		"name": "Draconian Sword",
+		"type":"weapon",
+		"typemod":"attack",
+		"modifier":110,
+		"sprite":"mainweaponarmor.png",
+		"offset":[4,7]
+	},
+
+	{
+		"id":12,
+		"name": "Slingshot",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":10,
+		"sprite":"mainweaponarmor.png",
+		"offset":[1,10]
+	},
+	{
+		"id":13,
+		"name": "Crude Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":20,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,8]
+	},
+	
+	{
+		"id":14,
+		"name": "Beginner Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":30,
+		"sprite":"mainweaponarmor.png",
+		"offset":[9,11]
+	},
+	
+	{
+		"id":15,
+		"name": "Iron Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":40,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,0]
+	},
+	{
+		"id":16,
+		"name": "Steel Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":50,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,1]
+	},
+	{
+		"id":17,
+		"name": "Bronze Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":60,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,2]
+	},
+	{
+		"id":18,
+		"name": "Gold Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":70,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,3]
+	},
+	{
+		"id":19,
+		"name": "Glass Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":80,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,4]
+	},
+	{
+		"id":20,
+		"name": "Adamantite Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":90,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,5]
+	},
+	{
+		"id":21,
+		"name": "Plate Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":100,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,6]
+	},
+	{
+		"id":22,
+		"name": "Draconian Bow",
+		"type":"weaponarcher",
+		"typemod":"attack",
+		"modifier":110,
+		"sprite":"mainweaponarmor.png",
+		"offset":[7,7]
+	},
+
+	{
+		"id":23,
+		"name": "Fur Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":10,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,12]
+	},
+	
+	{
+		"id":24,
+		"name": "Padded Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":20,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,11]
+	},
+	{
+		"id":25,
+		"name": "Leather Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":30,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,10]
+	},
+	
+	{
+		"id":26,
+		"name": "Iron Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":40,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,0]
+	},
+	{
+		"id":27,
+		"name": "Steel Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":50,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,1]
+	},
+	
+	{
+		"id":28,
+		"name": "Bronze Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":60,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,2]
+	},
+	{
+		"id":29,
+		"name": "Golden Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":70,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,3]
+	},
+	{
+		"id":30,
+		"name": "Glass Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":80,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,4]
+	},
+	{
+		"id":31,
+		"name": "Adamantite Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":90,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,5]
+	},
+	{
+		"id":32,
+		"name": "Plate Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":100,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,6]
+	},
+	{
+		"id":33,
+		"name": "Draconian Armor",
+		"type":"armor",
+		"typemod":"defense",
+		"modifier":110,
+		"sprite":"mainweaponarmor.png",
+		"offset":[11,7]
+	},
+	
+	{
+		"id":34,
+		"name": "Flask +100 HP",
+		"type":"object",
+		"typemod":"health",
+		"modifier":100,
+		"sprite":"item-flask.png",
+		"offset":[0,0],
+		"buy": 5,
+		"buycount":5		
+	},
+	{
+		"id":35,
+		"name": "Burger +50 Fatigue",
+		"type":"object",
+		"typemod":"fatigue",
+		"modifier":50,
+		"sprite":"item-burger.png",
+		"offset":[0,0],
+		"buy": 15,
+		"buycount":5
+	},
+	{
+		"id":36,
+		"name": "Big Flask +25% HP",
+		"type":"object",
+		"typemod":"healthpercent",
+		"modifier":25,
+		"sprite":"item-bigflask.png",
+		"offset":[0,0],
+		"buy": 30,
+		"buycount":5		
+	},
+	{
+		"id":37,
+		"name": "Leather",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":30,
+		"offset":[1,2]
+	},
+	{
+		"id":38,
+		"name": "Iron",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":40,
+		"offset":[0,2]
+	},
+	{
+		"id":39,
+		"name": "Steel",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":50,
+		"offset":[3,0]
+	},
+	{
+		"id":40,
+		"name": "Bronze",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":60,
+		"offset":[1,0]
+	},
+	{
+		"id":41,
+		"name": "Gold",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":70,
+		"offset":[2,1]
+	},
+	{
+		"id":42,
+		"name": "Glass",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":80,
+		"offset":[1,1]
+	},
+	{
+		"id":43,
+		"name": "Adamantite",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":90,
+		"offset":[0,0]
+	},
+	{
+		"id":44,
+		"name": "Plate",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":100,
+		"offset":[2,2]
+	},
+	{
+		"id":45,
+		"name": "Draconian",
+		"type": "craft",
+		"sprite":"item-craft.png",
+		"typemod":"craft",
+		"modifier":110,
+		"offset":[0,1]
+	}
+]
+

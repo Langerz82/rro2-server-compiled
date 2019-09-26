@@ -1,0 +1,356 @@
+[
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 1",
+	"desc": "Kill Monsters Level 1 or more",
+	"beforeTalk" : [
+		"Kill 25 Monsters Level 1 or more"
+	],
+	"mobCount": 25,
+	"minLevel":1,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 2",
+	"desc": "Kill Monsters Level 5 or more",
+	"beforeTalk" : [
+		"Kill 25 Monsters Level 5 or more"
+	],
+	"mobCount":25,
+	"minLevel":5,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 3",
+	"desc": "Kill Monsters Level 10 or more",
+	"beforeTalk" : [
+		"Kill 50 Monsters Level 10 or more"
+	],
+	"mobCount":50,
+	"minLevel":10,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 4",
+	"desc": "Kill Monsters Level 15 or more",
+	"beforeTalk" : [
+		"Kill 50 Monsters Level 15 or more"
+	],
+	"mobCount":50,
+	"minLevel":15,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 5",
+	"desc": "Kill Monsters Level 20 or more",
+	"beforeTalk" : [
+		"Kill 50 Monsters Level 20 or more"
+	],
+	"mobCount":50,
+	"minLevel":20,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 6",
+	"desc": "Kill Monsters Level 25 or more",
+	"beforeTalk" : [
+		"Kill 50 Monsters Level 25 or more"
+	],
+	"mobCount": 50,
+	"minLevel":25,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 7",
+	"desc": "Kill Monsters Level 30 or more",
+	"beforeTalk" : [
+		"Kill 50 Monsters Level 30 or more"
+	],
+	"mobCount": 50,
+	"minLevel":30,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 8",
+	"desc": "Kill Monsters Level 35 or more",
+	"beforeTalk" : [
+		"Kill 50 Monsters Level 35 or more"
+	],
+	"mobCount": 50,
+	"minLevel":35,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 9",
+	"desc": "Kill Monsters Level 40 or more",
+	"beforeTalk" : [
+		"Kill 50 Monsters Level 40 or more"
+	],
+	"mobCount": 50,
+	"minLevel":40,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 10",
+	"desc": "Kill Monsters Level 45 or more",
+	"beforeTalk" : [
+		"Kill 50 Monsters Level 45 or more"
+	],
+	"mobCount": 50,
+	"minLevel":45,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 11",
+	"desc": "Kill Monsters Level 50 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 50 or more"
+	],
+	"mobCount": 100,
+	"minLevel":50,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 12",
+	"desc": "Kill Monsters Level 55 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 55 or more"
+	],
+	"mobCount": 100,
+	"minLevel":55,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 13",
+	"desc": "Kill Monsters Level 60 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 60 or more"
+	],
+	"mobCount": 100,
+	"minLevel":60,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 14",
+	"desc": "Kill Monsters Level 65 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 65 or more"
+	],
+	"mobCount":100,
+	"minLevel":65,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 15",
+	"desc": "Kill Monsters Level 70 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 70 or more"
+	],
+	"mobCount":100,
+	"minLevel":70,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 16",
+	"desc": "Kill Monsters Level 75 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 75 or more"
+	],
+	"mobCount":100,
+	"minLevel":75,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 17",
+	"desc": "Kill Monsters Level 80 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 80 or more"
+	],
+	"mobCount":100,
+	"minLevel":80,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 18",
+	"desc": "Kill Monsters Level 85 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 85 or more"
+	],
+	"mobCount":100,
+	"minLevel":70,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 19",
+	"desc": "Kill Monsters Level 90 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 90 or more"
+	],
+	"mobCount":100,
+	"minLevel":70,
+	"maxLevel":200
+},
+{
+	"npcId":44,
+	"type": 3,
+	"name": "Intro 20",
+	"desc": "Kill Monsters Level 100 or more",
+	"beforeTalk" : [
+		"Kill 100 Monsters Level 100 or more"
+	],
+	"mobCount":100,
+	"minLevel":100,
+	"maxLevel":200
+},
+{
+	"npcId":48,
+	"type": 2,
+	"name": "Main 1",
+	"desc": "Save The Town from Rats I",
+	"beforeTalk" : [
+		"The Village South East of here is overrun",
+		"Rats have swarmed in plague proportions",
+		"Kill 10 of them so we can enter the Village"
+	],
+	"mobCount": 10,
+	"mobId":1,
+	"xp":100
+},
+{
+	"npcId":48,
+	"type": 2,
+	"name": "Main 2",
+	"desc": "Save The Town from Snakes II",
+	"beforeTalk" : [
+		"Snakes have been attracted by the Rats",
+		"Now we need them cleared too",
+		"Kill 10 of them so we can enter our Houses"
+	],
+	"mobCount": 10,
+	"mobId":2,
+	"xp":250
+},
+{
+	"npcId":48,
+	"type": 2,
+	"name": "Main 3",
+	"desc": "Clear the Goblin & Orc Camps I",
+	"beforeTalk" : [
+		"We can finally enter our Houses.",
+		"We have a looming threat right on our doorstep",
+		"Preparing to invade the Village.",
+		"We need you to kill 10 Goblin Scouts!"
+	],
+	"mobCount": 10,
+	"mobId":3,
+	"xp":500
+},
+{
+	"npcId":48,
+	"type": 2,
+	"name": "Main 4",
+	"desc": "Clear the Goblin & Orc Camps II",
+	"beforeTalk" : [
+		"We have removed the scouts trying to gather intelligence",
+		"We need to strike there Camp and prevent the invasion.",
+		"We need you to kill 10 Orcs at the centre of the Camp!"
+	],
+	"mobCount": 10,
+	"mobId":4,
+	"xp":1000
+},
+
+{
+	"npcId":48,
+	"type": 2,
+	"name": "Main 5",
+	"desc": "Settle the Graveyard I",
+	"beforeTalk" : [
+		"We made a mess of the Camps they will take a while to re-group.",
+		"We have reports that Evil Wizards are resurrecting the dead.",
+		"We need you to kill 10 Skeletons and put them to rest!"
+	],
+	"mobCount": 10,
+	"mobId":5,
+	"xp":1500
+},
+{
+	"npcId":48,
+	"type": 2,
+	"name": "Main 6",
+	"desc": "Settle the Graveyard II",
+	"beforeTalk" : [
+		"There is less Skeletons roaming the Graveyard.",
+		"Lets teach those evil wizards a lesson they will never forget",
+		"We need you to kill 10 Wizards at the Graveyard!"
+	],
+	"mobCount": 10,
+	"mobId":6,
+	"xp":2000
+},
+{
+	"npcId":48,
+	"type": 2,
+	"name": "Main 7",
+	"desc": "Raid the Ogres Tribal Meet I",
+	"beforeTalk" : [
+		"They are amassing a tribal party and we need to do something",
+		"We need you to kill 20 Ogres at there mass outskirts!"
+	],
+	"mobCount": 20,
+	"mobId":7,
+	"xp":3500
+},
+{
+	"npcId":48,
+	"type": 2,
+	"name": "Main 8",
+	"desc": "Raid the Ogres Tribal Meet II",
+	"beforeTalk" : [
+		"Great job at launching an invasion of the Tribal Meet",
+		"The time has come for us to make a stand and disperse them.",
+		"We need you to kill 20 Old Ogres at there Tribal Meet!"
+	],
+	"mobCount": 20,
+	"mobId":7,
+	"xp":5000
+}
+
+]
