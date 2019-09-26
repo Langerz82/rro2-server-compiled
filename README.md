@@ -6,7 +6,9 @@ This file is part of Retro RPG Online 2 Server.
 
 INSTRUCTIONS
 In Linux Terminal or Windows Command Prompt type:
+
 npm install
+
 node js/main.js
 
 Retro RPG Online 2 Server is free software: you can redistribute it and/or modify
