@@ -10,7 +10,7 @@
     "bcrypt": "^3.0.6",
     "bison": "^1.1.1",
     "connect": "^3.7.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "google-play-billing-validator": "^2.1.1",
     "log": "^1.4.0",
     "morgan": "^1.9.1",
