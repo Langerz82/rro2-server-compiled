@@ -1,3 +1,7 @@
+### OUTDATED VERSION.
+For the latest version see:
+https://github.com/Langerz82/retrorpgonline2
+
 This is the retail version of Retro RPG Online 2 Server.
 
 The compiled Server of RRO2 is covered under LGPL.
